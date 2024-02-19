@@ -57,17 +57,18 @@ FIGURE-02
 ## CIRCUIT DIAGRAM 
 
 
+![image](https://user-images.githubusercontent.com/36288975/163530437-87a0afbd-b3c9-44ad-b907-5de63486fb9d.png)
 
 
 
-![image](https://user-images.githubusercontent.com/36288975/163530437-87a0afbd-b3c9-44ad-b907-5de63486fb9d.png
+![image](https://github.com/Srikaavyaathamizh/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/144870938/960f2b06-f796-463d-8dfb-bab17d256dd3)
 
 
 
+<img width="355" alt="robotics graph exp 1" src="https://github.com/EPriyadharshini/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/144870831/eb56df7d-d5a9-4738-8d94-1986fa68a49d">
 
 
 
-FIGURE -03
 
 
 
@@ -108,4 +109,9 @@ void loop()
 ## OUTPUT OF SIMULATION :
 
 [My image](username.github.com/repository/img/image.jpg)
+
+## RESULT:
+Thus the above interface a digital input (push button) and blink and LED upon activation is executed successfully.
+
+
 
