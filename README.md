@@ -105,9 +105,7 @@ void loop()
 
 
 
-
-[My image](username.github.com/repository/img/image.jpg)
-
+<img width="467" alt="robo 1 org" src="https://github.com/EPriyadharshini/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/144870831/c9286bf8-2f8a-4645-bb85-f0b9c9e93789">
 
 
 
