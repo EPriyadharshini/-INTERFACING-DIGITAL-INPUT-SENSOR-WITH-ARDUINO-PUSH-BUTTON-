@@ -61,13 +61,6 @@ FIGURE-02
 
 
 
-
-<img width="355" alt="robotics graph exp 1" src="https://github.com/EPriyadharshini/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/144870831/eb56df7d-d5a9-4738-8d94-1986fa68a49d">
-
-
-
-
-
 ## PROGRAM 
  
  ```
@@ -106,6 +99,20 @@ void loop()
 
 
 <img width="467" alt="robo 1 org" src="https://github.com/EPriyadharshini/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/144870831/c9286bf8-2f8a-4645-bb85-f0b9c9e93789">
+
+
+
+
+
+
+
+
+
+
+
+<img width="355" alt="robotics graph exp 1" src="https://github.com/EPriyadharshini/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/144870831/eb56df7d-d5a9-4738-8d94-1986fa68a49d">
+
+
 
 
 
